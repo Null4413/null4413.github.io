@@ -1,6 +1,19 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "title":"Null4413",
+    "subTitle":"Null4413 Github Blog",
+    "avatarUrl":"https://avatars.githubusercontent.com/u/67164004?u=95caea81ee1fa38efc289d548ae3e1a98a51f62a&v=4",
+    "GMEEK_VERSION":"last",
+    "homeUrl":"http://blog.soo0.com",
+    "startSite":"08/15/2012",
+    "onePageListNum":15,
+    "commentLabelColor":"#006b75",
+    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "i18n":"CN",
+    "UTC":8,
+    "themeMode":"fix",
+    "dayTheme":"dark",
+    "nightTheme":"dark-blue",
+    "urlMode":"pinyin",
+    "primerCSS":"<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
+    "needComment":0
 }
