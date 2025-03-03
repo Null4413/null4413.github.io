@@ -402,7 +402,7 @@
     {
             "name": "ITV组播",
             "type": 0,
-            "url": "http://192.168.31.254:888/itv.m3u",
+            "url": "https://blog.soo0.com/itv.m3u",
                     "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }, {
