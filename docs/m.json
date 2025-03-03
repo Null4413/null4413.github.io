@@ -385,9 +385,9 @@
   ],
   "lives": [
 {
-            "name": "肥羊",
+            "name": "ITV组播",
             "type": 0,
-            "url": "http://192.168.31.252:35456/m3u/3",
+            "url": "https://blog.soo0.com/itv.txt",
                     "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }, {
@@ -400,9 +400,9 @@
             "epg": "https://epg.112114.xyz/"
         },
     {
-            "name": "ITV组播",
+            "name": "肥羊",
             "type": 0,
-            "url": "https://blog.soo0.com/itv.m3u",
+            "url": "http://192.168.31.252:35456/m3u/3",
                     "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }, {
