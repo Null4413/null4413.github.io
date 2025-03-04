@@ -1,7 +1,7 @@
 //以下内容为互联网收集，只为自用。
 {
   "spider": "./fty.jar;md5;3d161697458ecbcd2651a749db761ba1",
-  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "wallpaper": "https://jianbian.chuqiuyu.workers.dev/",
    "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
    "sites": [
      {"key": "csp_douban","name": "🌕┃豆瓣┃热播","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
@@ -390,14 +390,6 @@
             "url": "https://blog.soo0.com/itv.txt",
                     "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }, {
-            "group": "redirect",
-            "channels": [{
-                    "name": "live",
-                    "urls": []
-                }
-            ],
-            "epg": "https://epg.112114.xyz/"
         },
     {
             "name": "肥羊",
@@ -405,14 +397,6 @@
             "url": "http://192.168.31.252:35456/m3u/3",
                     "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }, {
-            "group": "redirect",
-            "channels": [{
-                    "name": "live",
-                    "urls": []
-                }
-            ],
-            "epg": "https://epg.112114.xyz/"
         }
   ]
 }
