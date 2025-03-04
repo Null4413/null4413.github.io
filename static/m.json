@@ -390,14 +390,6 @@
             "url": "https://blog.soo0.com/itv.txt",
                     "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }, {
-            "group": "redirect",
-            "channels": [{
-                    "name": "live",
-                    "urls": []
-                }
-            ],
-            "epg": "https://epg.112114.xyz/"
         },
     {
             "name": "肥羊",
@@ -405,14 +397,6 @@
             "url": "http://192.168.31.252:35456/m3u/3",
                     "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }, {
-            "group": "redirect",
-            "channels": [{
-                    "name": "live",
-                    "urls": []
-                }
-            ],
-            "epg": "https://epg.112114.xyz/"
         }
   ]
 }
