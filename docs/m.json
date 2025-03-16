@@ -394,7 +394,7 @@
     {
             "name": "肥羊",
             "type": 0,
-            "url": "http://192.168.31.252:35456/m3u/3",
+            "url": "http://192.168.31.252:35456/txt/3",
                     "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
