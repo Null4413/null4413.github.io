@@ -15,6 +15,6 @@
     "nightTheme":"dark-blue",
     "urlMode":"pinyin",
     "primerCSS":"<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
-    "needComment":0
+    "needComment":0,
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>"
 }
